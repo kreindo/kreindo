@@ -21,4 +21,7 @@ I'm Ahmadsan, a Front-end Web Developer, Learning makes happiness.
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kreindo&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kreindo&show_icons=true&theme=rose_pine)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kreindo&theme=rose_pine)
+
