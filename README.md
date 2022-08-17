@@ -5,15 +5,8 @@
 <h3 align="center">A frontend developer from Indonesia</h3>
 
 
-- 🔭 I’m currently working on [tgstation](https://github.com/tgstation/tgstation)
+🌱 **ahmadsan4p@gmail.com**
 
-- 🌱 I’m currently learning **Front-end development**
-
-- 📫 How to reach me **ahmadsan4p@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahmad-dahsan-226766205/](https://www.linkedin.com/in/ahmad-dahsan-226766205/)
-
-- ⚡ Fun fact: **monke**
 
 
 
